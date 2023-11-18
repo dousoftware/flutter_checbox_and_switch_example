@@ -1,16 +1,6 @@
-# flutter_checkbox_slider_radio_and_switch_widget_example
+Flutter'da Checkbox ve Switch widget örneği
+Flutter Checkbox and Switch example
 
-A new Flutter project.
 
-## Getting Started
+![Ekran görüntüsü 2023-11-18 182028](https://github.com/dousoftware/flutter_checbox_and_switch_example/assets/60797535/1b42c9a6-8ff3-4295-bf19-e21e18aba57a)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
